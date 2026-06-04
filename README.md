@@ -10,32 +10,6 @@ Aplikasi Point of Sale (POS) untuk coffee shop menggunakan **PHP native + MySQL*
 - ✅ **Easy Management** - View, edit, export data dengan mudah
 - ✅ **Auto Setup** - Database otomatis dibuat saat pertama kali run
 
-## 🚀 Cara Menjalankan
-
-### Linux/Mac
-
-**Cukup satu command!**
-
-```bash
-cd /home/darulqutni/joki
-./run.sh
-```
-
-Script akan otomatis:
-- ✅ Check PHP dan MySQL extension
-- ✅ Start MySQL service (jika belum running)
-- ✅ Create database (jika belum ada)
-- ✅ Migrate data dari SQLite (jika ada)
-- ✅ Start server di `http://localhost:8000`
-
-### Windows
-
-**Double-click atau run dari CMD:**
-
-```cmd
-run.bat
-```
-
 Pastikan XAMPP/WAMP/MAMP sudah running!
 
 ### Akses Aplikasi

@@ -16,9 +16,11 @@ Pastikan XAMPP/WAMP/MAMP sudah running!
 
 Buka browser: **http://localhost:8000**
 
-**Login Credentials:**
+**Login Credentials (demo only):**
 - **Admin**: username `admin` password `admin123`
 - **Kasir**: username `kasir` password `kasir123`
+
+> Peringatan: kredensial di atas hanya untuk demo lokal. Ganti password default sebelum aplikasi dipakai bersama atau di-demo ke orang lain.
 
 ## 🗄️ phpMyAdmin Access
 
